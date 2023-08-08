@@ -1,4 +1,4 @@
-module github.com/jmattheis/goverter
+module github.com/goghcrow/goverter
 
 go 1.16
 
