@@ -3,8 +3,8 @@ package errors_test
 import (
 	"testing"
 
-	"github.com/jmattheis/goverter/example/errors"
-	"github.com/jmattheis/goverter/example/errors/generated"
+	"github.com/goghcrow/goverter/example/errors"
+	"github.com/goghcrow/goverter/example/errors/generated"
 	"github.com/stretchr/testify/require"
 )
 

@@ -2,7 +2,7 @@
 
 package generated
 
-import mismatched "github.com/jmattheis/goverter/example/mismatched"
+import mismatched "github.com/goghcrow/goverter/example/mismatched"
 
 type ConverterImpl struct{}
 

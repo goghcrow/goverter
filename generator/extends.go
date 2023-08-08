@@ -7,8 +7,8 @@ import (
 	"strings"
 
 	"github.com/dave/jennifer/jen"
-	"github.com/jmattheis/goverter/builder"
-	"github.com/jmattheis/goverter/xtype"
+	"github.com/goghcrow/goverter/builder"
+	"github.com/goghcrow/goverter/xtype"
 	"github.com/pkg/errors"
 )
 

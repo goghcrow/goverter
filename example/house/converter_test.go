@@ -4,8 +4,8 @@ import (
 	"database/sql"
 	"testing"
 
-	"github.com/jmattheis/goverter/example/house"
-	"github.com/jmattheis/goverter/example/house/generated"
+	"github.com/goghcrow/goverter/example/house"
+	"github.com/goghcrow/goverter/example/house/generated"
 	"github.com/stretchr/testify/require"
 )
 

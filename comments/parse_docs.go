@@ -8,7 +8,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/jmattheis/goverter/builder"
+	"github.com/goghcrow/goverter/builder"
 	"golang.org/x/tools/go/packages"
 )
 

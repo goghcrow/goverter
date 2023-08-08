@@ -52,8 +52,8 @@ func TestScenario(t *testing.T) {
 				GenerateConfig{
 					PackageName:             genPkgName,
 					WorkingDir:              execDir,
-					PackagePath:             "github.com/jmattheis/goverter/execution/" + genPkgName,
-					ScanDir:                 "github.com/jmattheis/goverter/execution",
+					PackagePath:             "github.com/goghcrow/goverter/execution/" + genPkgName,
+					ScanDir:                 "github.com/goghcrow/goverter/execution",
 					ExtendMethods:           scenario.Extends,
 					WrapErrors:              scenario.WrapErrors,
 					IgnoredUnexportedFields: scenario.IgnoreUnexportedFields,
